@@ -1,4 +1,4 @@
-# [Uppy](https://uppy.io) [![uppy on npm](https://img.shields.io/npm/v/uppy.svg?style=flat-square)](https://www.npmjs.com/package/uppy)
+[Uppy](https://uppy.io) [![uppy on npm](https://img.shields.io/npm/v/uppy.svg?style=flat-square)](https://www.npmjs.com/package/uppy)
 
 <img src="https://uppy.io/img/logo.svg" width="120" alt="Uppy logo: a smiling puppy above a pink upwards arrow" align="right">
 
